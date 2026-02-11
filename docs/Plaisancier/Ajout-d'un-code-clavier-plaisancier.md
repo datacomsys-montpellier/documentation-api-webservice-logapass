@@ -1,5 +1,5 @@
 ---
-slug: Ajout-d-un-code-clavier-plaisancier
+slug: Ajout-code-clavier-plaisancier
 ---
 
 ## POST - /plaisancier/ajoutCodeClavierPlaisancier
