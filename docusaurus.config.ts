@@ -91,13 +91,14 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      // links: [
+      //   {
+      //     title: 'Docs',
+      //     items: [
+      //     ],
+      //   },
+      // ],
+      copyright: `Copyright © ${new Date().getFullYear()} Datacomsys, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
