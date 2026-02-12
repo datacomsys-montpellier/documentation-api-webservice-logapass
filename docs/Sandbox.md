@@ -11,5 +11,4 @@ Vous aurez besoin de :
 - Une base de données dédiée à vos tests.
 - Un token permanent. Pour l'obtenir, un IDERP et un mot de passe doit vous être fourni.
 
-L'URL de l'environnement de test :
-https://test.datacomsys.fr/wsv_LogapassClientV2/wsv_Logapass?test
+L'URL de l'environnement de test vous sera fournie par DataComSys.
