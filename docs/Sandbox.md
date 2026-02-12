@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 # Mise en place d'un Sand Box
