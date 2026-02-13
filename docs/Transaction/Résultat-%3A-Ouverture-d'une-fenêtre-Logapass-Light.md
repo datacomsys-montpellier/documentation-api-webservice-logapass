@@ -2,6 +2,8 @@
 slug: Transaction-Resultat-Ouverture-fenetre-Logapass-Light
 ---
 
+# Résultat : Ouverture d'un fenêtre de logapassLight
+
 Résultat de la transaction d'ouverture d'une fenêtre Logapass Light
 
 #### Succès - Code 200 - Annulation dans Logapass light

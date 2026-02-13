@@ -2,6 +2,8 @@
 slug: Creation-ou-modification-de-badge
 ---
 
+# Résultat : Création ou modification d'un badge
+
 ## POST - /badge
 
 Création ou modification d'un badge

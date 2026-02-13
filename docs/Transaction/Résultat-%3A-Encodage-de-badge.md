@@ -2,6 +2,8 @@
 slug: Transaction-Resultat-Encodage-de-badge
 ---
 
+# Résultat : Encodage d'un badge
+
 Pour la création d'un badge avec encodage (Opération 2B), transactionResult contient l'UID du badge encodé.
 
 #### Succès - Code 200

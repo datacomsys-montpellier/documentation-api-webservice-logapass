@@ -2,6 +2,8 @@
 slug: Date-de-validite-OnLine
 ---
 
+# Résultat : Modification de la date de validité (OnLine)
+
 ## POST - /badge/dateValidite
 
 Modification de la date de validité d'un badge.

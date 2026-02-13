@@ -2,6 +2,8 @@
 slug: Ajout-code-clavier-plaisancier
 ---
 
+# Ajout d'un code clavier plaisancier
+
 ## POST - /plaisancier/ajoutCodeClavierPlaisancier
 
 Création d'un code plaisancier à 6 chiffres, valide pour une période donnée, pour un plaisancier et dans une ou plusieurs zones du port.

@@ -2,6 +2,8 @@
 slug: Transaction-Resultat-Fin-escale
 ---
 
+# Résultat : Fin d'escale
+
 Résultat de la transaction de fin d'escale
 
 #### Succès - Code 200 - Annulation dans Logapass light

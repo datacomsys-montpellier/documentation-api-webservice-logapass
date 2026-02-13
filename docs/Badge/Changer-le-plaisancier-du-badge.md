@@ -2,6 +2,8 @@
 +slug: Changer-le-plaisancier-du-badge
 ---
 
+# Résultat : Change le plaisancier d'un badge
+
 ## PUT - /badge/changePlaisancier/:numBadge_OU_UID/:idPlaisanc/:NouvelIDPlaisancier
 
 Permet de changer le plaisancier associé à un badge (via son UID)

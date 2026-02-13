@@ -2,6 +2,8 @@
 slug: Transaction-Resultat-Desactivation-de-voie
 ---
 
+# Résultat : Désactivation d'une voie
+
 Résultat de la transaction d'une déactivation de voie
 
 #### Succès - Code 200

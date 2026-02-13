@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Lecture des données d'un plaisancier
+
 ## GET - /plaisancier/:matriculePlaisancier
 
 Lecture des informations basiques d'un plaisancier à partir de son matricule. Utile pour récupérer l'ID du plaisancier qui est utilisé dans le reste de l'API.

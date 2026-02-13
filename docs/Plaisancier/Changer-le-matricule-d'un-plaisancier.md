@@ -2,6 +2,8 @@
 slug: Changer-le-matricule-d-un-plaisancier
 ---
 
+# Changer le matricule d'un plaisancier
+
 ## PUT - /plaisancier/changeMatricule/:idPlaisancier/:nouveauMatricule
 
 Change le matricule d'un plaisancier.

@@ -2,6 +2,8 @@
 slug: Ouvrir-la-fenetre-de-lecture-de-badge-dans-Logapass-Light
 ---
 
+# Résultat : Lecture d'un badge via Logapass Light
+
 ## POST - /badge/lectureDansLogapassLight
 
 Permet d'ouvrir la fenêtre de lecture de badge dans Logapass Light.

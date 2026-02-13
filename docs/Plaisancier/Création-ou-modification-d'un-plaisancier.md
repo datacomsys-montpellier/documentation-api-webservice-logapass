@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Création ou modification d'un plaisancier
+
 ## POST - /plaisancier
 
 Création ou modification d'un plaisancier

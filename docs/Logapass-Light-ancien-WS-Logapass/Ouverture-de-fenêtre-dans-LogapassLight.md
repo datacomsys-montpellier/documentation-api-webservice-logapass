@@ -2,6 +2,8 @@
 slug: Ouverture-de-fenetre-dans-LogapassLight
 ---
 
+# Ouverture de fenêtre dans LogapassLight
+
 ## POST - /logapassLight/ouvreFenetre
 
 Permet d'ouvrir certaines fenêtres dans Logapass Light

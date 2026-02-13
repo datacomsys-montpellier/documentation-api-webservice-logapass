@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 70
 ---
 
-Points d'entrée pour activer / désactiver des voies.
+# Points d'entrée pour activer / désactiver des voies.
 
 Note importante : l'activation / désactivation des voies est réalisée par le service Windows (pas par Logapass Light). Inutile donc de passer un utilisateur en paramètre dans le contenu du body, mais il faut bien s'assurer que le service Windows soit bien installé sur le port.
 

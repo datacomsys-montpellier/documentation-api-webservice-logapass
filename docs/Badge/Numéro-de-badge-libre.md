@@ -2,6 +2,8 @@
 slug: Numero-de-badge-libre
 ---
 
+# Résultat : Numéro de badge libre (nouveau numéro)
+
 ## GET - /badge/nouveaunumero
 
 Donne un numéro de badge unique non utilisé
