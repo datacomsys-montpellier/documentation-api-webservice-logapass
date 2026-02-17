@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
-const passwords = [
-  { username: 'username', password: 'password' },
+const p = [
+  { u: 'test-user', p: 'secret-pass' },
 ];
 
 export default function Root({ children }) {
@@ -11,8 +11,8 @@ export default function Root({ children }) {
 
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
-    const user = passwords.find(
-      (p) => p.username === username && p.password === password
+    const user = p.find(
+      (p) => p.u === username && p.p === password
     );
     if (user) {
       setIsAuthenticated(true);
